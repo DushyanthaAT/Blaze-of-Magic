@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 02cbac59158062b42b43176ffbdace4a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Ghost Theory
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0a650f0a82a184044b0a0a7dc6075f1d, type: 3}
+  - {fileID: 12800000, guid: 37eef71e51da204459727a3b6db7ef38, type: 3}
+  - {fileID: 12800000, guid: df3243e21c79e6c4488328cc428bea4a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
